@@ -1,0 +1,62 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Montserrat";
+}
+
+.header {
+  height: 100vh;
+  background-image: url(2022-10-26\ 17.10.19.jpg);
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 75vw;
+  margin: auto;
+}
+
+.header__logo {
+  height: 65px;
+}
+
+.header__ikon {
+  height: 23px;
+}
+
+.header__link {
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.header__links {
+  width: 100%;
+  max-width: 360px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.xyi {
+  width: 100%;
+  max-width: 530px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__meny {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 5vh;
+}
+
+.header__title {
+  font-size: 145px;
+  font-weight: 600;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  padding-top: 200px;
+}
